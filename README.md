@@ -1,7 +1,7 @@
 # Olá, eu sou o Kaik! 👋
 
 ## Sobre mim
-- 👨‍💻 Desenvolvedor Full Stack Jr. e continuo em formação.
+- 👨‍💻 Desenvolvedor Full Stack Jr, com um foco maior em Front-end.
 - 🎓 Cursando **Desenvolvimento de Software Multiplataforma (3º Semestre)** na **Fatec Zona Leste**.
 - 🎓 Técnico em **Desenvolvimento de Sistemas** na **Etec Zona Leste - Jul. de 2022**.
 - 🌱 Atualmente estou aprendendo **React** e **Node.js**.
